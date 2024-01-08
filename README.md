@@ -23,6 +23,5 @@
 </p>
 <br/>
 
-Abaixo está um resumo de alguns projetos desenvolvidos, caso se interesse por algum deles, você pode clicar no nome do projeto e será levado
-para outra pagina contendo mais informações.
+
  
