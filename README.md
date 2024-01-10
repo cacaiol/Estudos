@@ -1,7 +1,6 @@
 # Seja Bem-Vindo(a)!!
 
-### Este é meu repositório contendo somente conteúdos relacionados aos meus estudos, projetos desenvolvidos em cursos e afins.
-### Grande parte dos conteúdos para estudos aqui foram retirados do YouTube da UNIVESP (Universidade Virtual do Estado de São Paulo), dito isso, ficam aqui meus agradecimentos pela instituição ter disponibilizado as aulas de forma gratuita. 
+### Este é meu repositório contendo somente conteúdos relacionados aos meus estudos, projetos desenvolvidos em cursos e afins. Grande parte dos conteúdos para estudos aqui foram retirados do YouTube da UNIVESP (Universidade Virtual do Estado de São Paulo), dito isso, ficam aqui meus agradecimentos pela instituição ter disponibilizado as aulas de forma gratuita. 
 
 <br/>
 
